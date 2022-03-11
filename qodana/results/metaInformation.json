@@ -1,0 +1,16 @@
+{
+  "total": 2,
+  "tools inspection": {
+    "Code Inspection": 2
+  },
+  "attributes": {
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/Lyzev/DcLogger",
+        "revisionId": "cc2aa8ee0deed45d50f9d451346ca7e26e660828",
+        "branch": "master"
+      }
+    },
+    "deviceId": "200820300000000-5d41-fc90-e882-21980dfd945b"
+  }
+}

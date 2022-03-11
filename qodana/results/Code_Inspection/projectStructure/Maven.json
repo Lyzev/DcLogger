@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "ideaName": "Maven: com.1stleg:jnativehook:2.1.0",
+      "unresolved": false,
+      "groupId": "com.1stleg",
+      "artifactId": "jnativehook",
+      "version": "2.1.0",
+      "baseVersion": "2.1.0",
+      "type": "jar",
+      "optional": false,
+      "scope": "compile"
+    },
+    {
+      "ideaName": "Maven: com.google.code.gson:gson:2.9.0",
+      "unresolved": false,
+      "groupId": "com.google.code.gson",
+      "artifactId": "gson",
+      "version": "2.9.0",
+      "baseVersion": "2.9.0",
+      "type": "jar",
+      "optional": false,
+      "scope": "compile"
+    }
+  ]
+}

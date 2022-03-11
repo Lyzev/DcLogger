@@ -1,0 +1,8 @@
+{
+  "modules": [
+    {
+      "name": "DcLogger",
+      "languageLevel": 8
+    }
+  ]
+}
