@@ -3,7 +3,7 @@
 <p align="center">A simple key logger application which sends the keys to a discord webhook implemented in Java.</p>
 
 <div align="center">
-    <a href="https://discord.com/invite/p2HAPAK"><img src="https://img.shields.io/discord/610120595765723137?logo=discord" alt="Discord"/></a>
+    <a href="https://discord.gg/5UmsQP4MFH"><img src="https://img.shields.io/discord/610120595765723137?logo=discord" alt="Discord"/></a>
     <br><br>
     <img src="https://img.shields.io/github/last-commit/Lyzev/DcLogger" alt="GitHub last commit"/>
     <img src="https://img.shields.io/github/commit-activity/w/Lyzev/DcLogger" alt="GitHub commit activity"/>
