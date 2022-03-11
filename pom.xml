@@ -72,6 +72,13 @@
                 <configuration>
                     <moduleName>DcLogger</moduleName>
                     <jdkVersion>17</jdkVersion>
+                    <dokkaPlugins>
+                        <plugin>
+                            <groupId>org.jetbrains.dokka</groupId>
+                            <artifactId>kotlin-as-java-plugin</artifactId>
+                            <version>1.6.10</version>
+                        </plugin>
+                    </dokkaPlugins>
                 </configuration>
             </plugin>
         </plugins>
