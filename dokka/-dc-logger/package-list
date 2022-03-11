@@ -1,0 +1,20 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:me.lyzev.dclogger.utils////PointingToDeclaration/-dc-logger/me.lyzev.dclogger.utils/index.html
+$dokka.location:me.lyzev.dclogger.utils/Timer///PointingToDeclaration/-dc-logger/me.lyzev.dclogger.utils/-timer/index.html
+$dokka.location:me.lyzev.dclogger.utils/Timer/hasTimeElapsed/#long#boolean/PointingToDeclaration/-dc-logger/me.lyzev.dclogger.utils/-timer/has-time-elapsed.html
+$dokka.location:me.lyzev.dclogger.utils/Timer/reset/#/PointingToDeclaration/-dc-logger/me.lyzev.dclogger.utils/-timer/reset.html
+$dokka.location:me.lyzev.dclogger////PointingToDeclaration/-dc-logger/me.lyzev.dclogger/index.html
+$dokka.location:me.lyzev.dclogger/DcLogger///PointingToDeclaration/-dc-logger/me.lyzev.dclogger/-dc-logger/index.html
+$dokka.location:me.lyzev.dclogger/DcLogger/main/#java.lang.String[]/PointingToDeclaration/-dc-logger/me.lyzev.dclogger/-dc-logger/main.html
+$dokka.location:me.lyzev.dclogger/KeyLogger///PointingToDeclaration/-dc-logger/me.lyzev.dclogger/-key-logger/index.html
+$dokka.location:me.lyzev.dclogger/KeyLogger/KeyLogger/#java.lang.String#long/PointingToDeclaration/-dc-logger/me.lyzev.dclogger/-key-logger/-key-logger.html
+$dokka.location:me.lyzev.dclogger/KeyLogger/KeyLogger/#java.lang.String/PointingToDeclaration/-dc-logger/me.lyzev.dclogger/-key-logger/-key-logger.html
+$dokka.location:me.lyzev.dclogger/KeyLogger/nativeKeyPressed/#org.jnativehook.keyboard.NativeKeyEvent/PointingToDeclaration/-dc-logger/me.lyzev.dclogger/-key-logger/native-key-pressed.html
+$dokka.location:me.lyzev.dclogger/KeyLogger/nativeKeyReleased/#org.jnativehook.keyboard.NativeKeyEvent/PointingToDeclaration/-dc-logger/me.lyzev.dclogger/-key-logger/native-key-released.html
+$dokka.location:me.lyzev.dclogger/KeyLogger/nativeKeyTyped/#org.jnativehook.keyboard.NativeKeyEvent/PointingToDeclaration/-dc-logger/me.lyzev.dclogger/-key-logger/native-key-typed.html
+$dokka.location:me.lyzev.dclogger/KeyLogger/start/#/PointingToDeclaration/-dc-logger/me.lyzev.dclogger/-key-logger/start.html
+$dokka.location:me.lyzev.dclogger/KeyLogger/stop/#/PointingToDeclaration/-dc-logger/me.lyzev.dclogger/-key-logger/stop.html
+me.lyzev.dclogger
+me.lyzev.dclogger.utils
+
