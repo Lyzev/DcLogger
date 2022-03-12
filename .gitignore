@@ -1,8 +1,2 @@
 /target/
-
-/.settings/
-.project
-.classpath
-
 .idea
-keylogger.iml
