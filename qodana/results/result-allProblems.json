@@ -10,34 +10,6 @@
       "type": "file",
       "path": "src/main/java/me/lyzev/dclogger/KeyLogger.java",
       "language": "JAVA",
-      "line": 68,
-      "offset": 15,
-      "length": 15,
-      "code": {
-        "startLine": 66,
-        "length": 15,
-        "offset": 103,
-        "surroundingCode": "            GlobalScreen.registerNativeHook();\n        } catch (NativeHookException e) {\n            e.printStackTrace();\n        }\n        GlobalScreen.addNativeKeyListener(this);"
-      }
-    }
-  ],
-  "attributes": {
-    "module": "DcLogger",
-    "inspectionName": "ThrowablePrintStackTrace"
-  },
-  "hash": "580eae50a8b8e195a1e9ce7177362b9634f3ca2f7f12796f43f8a1d6462f1a9c"
-},{
-  "tool": "Code Inspection",
-  "category": "Code maturity",
-  "type": "Call to 'printStackTrace()'",
-  "severity": "High",
-  "comment": "Call to `printStackTrace()` should probably be replaced with more robust logging",
-  "detailsInfo": "Reports calls to `Throwable.printStackTrace()` without arguments.\n\nSuch statements are often used for temporary debugging and should be either removed from the production code\nor replaced with a more robust logging facility.",
-  "sources": [
-    {
-      "type": "file",
-      "path": "src/main/java/me/lyzev/dclogger/KeyLogger.java",
-      "language": "JAVA",
       "line": 102,
       "offset": 15,
       "length": 15,
@@ -54,4 +26,32 @@
     "inspectionName": "ThrowablePrintStackTrace"
   },
   "hash": "f128ef0638abf61df16d274991cce56a72c8556b9b0eebc21a9a4c01e51f408c"
+},{
+  "tool": "Code Inspection",
+  "category": "Code maturity",
+  "type": "Call to 'printStackTrace()'",
+  "severity": "High",
+  "comment": "Call to `printStackTrace()` should probably be replaced with more robust logging",
+  "detailsInfo": "Reports calls to `Throwable.printStackTrace()` without arguments.\n\nSuch statements are often used for temporary debugging and should be either removed from the production code\nor replaced with a more robust logging facility.",
+  "sources": [
+    {
+      "type": "file",
+      "path": "src/main/java/me/lyzev/dclogger/KeyLogger.java",
+      "language": "JAVA",
+      "line": 68,
+      "offset": 15,
+      "length": 15,
+      "code": {
+        "startLine": 66,
+        "length": 15,
+        "offset": 103,
+        "surroundingCode": "            GlobalScreen.registerNativeHook();\n        } catch (NativeHookException e) {\n            e.printStackTrace();\n        }\n        GlobalScreen.addNativeKeyListener(this);"
+      }
+    }
+  ],
+  "attributes": {
+    "module": "DcLogger",
+    "inspectionName": "ThrowablePrintStackTrace"
+  },
+  "hash": "580eae50a8b8e195a1e9ce7177362b9634f3ca2f7f12796f43f8a1d6462f1a9c"
 }]}

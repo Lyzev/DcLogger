@@ -2,7 +2,7 @@
   "modules": [
     {
       "name": "DcLogger",
-      "languageLevel": 8
+      "languageLevel": 17
     }
   ]
 }
