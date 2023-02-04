@@ -10,13 +10,28 @@
               "path": "file://$PROJECT_DIR$/src/main/java",
               "type": "Source",
               "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/src/main/resources",
+              "type": "Resource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/src/test/java",
+              "type": "TestSource",
+              "packagePrefix": ""
+            },
+            {
+              "path": "file://$PROJECT_DIR$/src/test/resources",
+              "type": "TestResource",
+              "packagePrefix": ""
             }
           ]
         }
       ],
       "orderEntries": [
         {
-          "name": "jbr-11",
+          "name": "17",
           "type": "SDK"
         },
         {

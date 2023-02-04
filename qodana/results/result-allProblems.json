@@ -2,8 +2,11 @@
   "tool": "Code Inspection",
   "category": "Code maturity",
   "type": "Call to 'printStackTrace()'",
+  "tags": [
+    "JAVA"
+  ],
   "severity": "High",
-  "comment": "Call to `printStackTrace()` should probably be replaced with more robust logging",
+  "comment": "Call to 'printStackTrace()' should probably be replaced with more robust logging",
   "detailsInfo": "Reports calls to `Throwable.printStackTrace()` without arguments.\n\nSuch statements are often used for temporary debugging and should be either removed from the production code\nor replaced with a more robust logging facility.",
   "sources": [
     {
@@ -30,8 +33,11 @@
   "tool": "Code Inspection",
   "category": "Code maturity",
   "type": "Call to 'printStackTrace()'",
+  "tags": [
+    "JAVA"
+  ],
   "severity": "High",
-  "comment": "Call to `printStackTrace()` should probably be replaced with more robust logging",
+  "comment": "Call to 'printStackTrace()' should probably be replaced with more robust logging",
   "detailsInfo": "Reports calls to `Throwable.printStackTrace()` without arguments.\n\nSuch statements are often used for temporary debugging and should be either removed from the production code\nor replaced with a more robust logging facility.",
   "sources": [
     {

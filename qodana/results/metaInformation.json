@@ -3,14 +3,17 @@
   "tools inspection": {
     "Code Inspection": 2
   },
+  "linter": "QDJVMC",
   "attributes": {
     "vcs": {
       "sarifIdea": {
-        "repositoryUri": "https://github.com/Lyzev/DcLogger",
-        "revisionId": "63ce854dedb85e031f1dc5ba635846e152f1571c",
-        "branch": "master"
+        "repositoryUri": "ssh://git@github.com/Lyzev/DcLogger.git",
+        "revisionId": "db442a811632e0e4766dcaac5f74e71299922b71",
+        "branch": "refs/heads/master"
       }
     },
-    "deviceId": "200820300000000-5d41-fc90-e882-21980dfd945b"
+    "deviceId": "200820300000000-5d41-fc90-e882-21980dfd945b",
+    "jobUrl": "https://github.com/Lyzev/DcLogger/actions/runs/4092031300",
+    "repoUrl": "https://github.com/Lyzev/DcLogger"
   }
 }
